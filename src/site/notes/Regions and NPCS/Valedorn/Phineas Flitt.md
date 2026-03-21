@@ -5,7 +5,7 @@
 
 Current status: ALLY
 
-The calculating and pragmatic majordomo to [[Regions and NPCS/Valedorn/King Valo IX\|King Valo IX]] of [[Regions and NPCS/Valethwyn\|Valethwyn]], Phineas remains significantly more true to the Flitt family name than his brother, Barnabus. Phineas' self-proclaimed job is to 'hear the music', by which he means spot patterns in upcoming sociopolitical events and make sure that Valethwyn has everything it needs. Or, at least, that the nobility have everything that it needs. Unlike his brother Barnabus, Phineas bears battlescars from his time in [[Pantheon and Phenomena/The Humbling of the Mages\|The Humbling of the Mages]]. 
+The calculating and pragmatic majordomo to [[Regions and NPCS/Valedorn/King Valo IX\|King Valo IX]] of [[Regions and NPCS/Valedorn/Valethwyn\|Valethwyn]], Phineas remains significantly more true to the Flitt family name than his brother, Barnabus. Phineas' self-proclaimed job is to 'hear the music', by which he means spot patterns in upcoming sociopolitical events and make sure that Valethwyn has everything it needs. Or, at least, that the nobility have everything that it needs. Unlike his brother Barnabus, Phineas bears battlescars from his time in [[Pantheon and Phenomena/The Humbling of the Mages\|The Humbling of the Mages]]. 
 
 Once he had spoken with Penn at the Ball, Phineas realised very quickly that there may be a reason that Vor'el-Thar were becoming hostile over trading relations, and that it may have more to do with [[Regions and NPCS/Thar-Vokar/Francesca Vigo\|Francesca Vigo]] than meets the eye.
 
