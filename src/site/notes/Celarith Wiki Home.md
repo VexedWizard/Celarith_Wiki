@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/celarith-wiki-home/","tags":["gardenEntry"],"created":"2026-03-21T11:11:31.537+00:00","updated":"2026-03-21T17:08:33.892+00:00"}
+{"dg-publish":true,"permalink":"/celarith-wiki-home/","tags":["gardenEntry"],"created":"2026-03-21T11:11:31.537+00:00","updated":"2026-03-21T17:11:59.464+00:00"}
 ---
 
 # Last We Left Off...
@@ -16,7 +16,7 @@ After this bombshell, the party answered the call of [[Regions and NPCS/Thar-Vok
 After planning the heist, the party found themselves awaiting the next day for go time...
 
 
-
+## Map
 
 ![Celarith with Regions.jpg](/img/user/Images/Celarith%20with%20Regions.jpg)
 
