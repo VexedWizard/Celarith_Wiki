@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/phineas-flitt/","created":"2026-03-21T11:00:07.633+00:00","updated":"2026-03-21T11:49:01.175+00:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/phineas-flitt/","created":"2026-04-25T11:50:18.592+01:00","updated":"2026-05-03T15:04:49.985+01:00"}
 ---
 
 
@@ -14,7 +14,7 @@ A lithe, battlescarred human male with greying hair and emerald green eyes.
 
 # Relations
 [[Regions and NPCS/Valedorn/Baron Barnabus Flitt\|Baron Barnabus Flitt]]
-[[Regions and NPCS/Thar-Vokar/Corellon Flitt\|Corellon Flitt]]
+[[Regions and NPCS/Thar-Vokar/Not Corellon Flitt\|Corellon Flitt]]
 [[Regions and NPCS/Valedorn/General Silas Ranimar, Archmage of War\|General Silas Ranimar, Archmage of War]]
 [[Regions and NPCS/Valedorn/King Valo IX\|King Valo IX]]
 [[Regions and NPCS/Valedorn/Arnomar Venscribe, Archmage of the Grand Ballad\|Arnomar Venscribe, Archmage of the Grand Ballad]]

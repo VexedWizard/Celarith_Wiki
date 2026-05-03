@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/nightingales/","created":"2026-03-21T11:00:07.630+00:00","updated":"2026-03-21T11:45:42.998+00:00"}
+{"dg-publish":true,"permalink":"/factions/nightingales/","created":"2026-04-25T11:50:18.585+01:00","updated":"2026-03-21T11:45:42.000+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/nyrrheim/benedictus-rowan/","created":"2026-03-21T11:00:07.632+00:00","updated":"2026-03-21T11:47:40.122+00:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/nyrrheim/benedictus-rowan/","created":"2026-04-25T11:50:18.588+01:00","updated":"2026-03-21T11:47:40.000+00:00"}
 ---
 
 

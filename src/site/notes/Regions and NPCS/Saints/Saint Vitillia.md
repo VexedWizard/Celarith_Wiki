@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/saints/saint-vitillia/","created":"2026-03-21T16:17:40.782+00:00","updated":"2026-03-21T16:24:12.922+00:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/saints/saint-vitillia/","created":"2026-04-25T11:50:18.588+01:00","updated":"2026-03-21T16:24:12.000+00:00"}
 ---
 
 A Saint of Allyra (see [[Pantheon and Phenomena/Pantheon\|Pantheon]]), and now ally to Maristela, Saint Vitillia walked Celarith 5000 years ago.  Her story is below.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/sister-ivara-cael-voice-of-the-emberwardens/","created":"2026-03-21T11:00:07.633+00:00","updated":"2026-03-21T11:49:01.193+00:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/sister-ivara-cael-voice-of-the-emberwardens/","created":"2026-04-25T11:50:18.592+01:00","updated":"2026-03-21T11:49:01.000+00:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/baron-barnabus-flitt/","created":"2026-03-21T11:00:07.632+00:00","updated":"2026-03-21T11:49:01.076+00:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/baron-barnabus-flitt/","created":"2026-04-25T11:50:18.591+01:00","updated":"2026-05-03T15:04:49.983+01:00"}
 ---
 
 
@@ -14,4 +14,4 @@ A short, stocky human with salt and pepper hair, and the characteristic Flitt em
 
 Relations:
 [[Regions and NPCS/Valedorn/Phineas Flitt\|Phineas Flitt]]
-[[Regions and NPCS/Thar-Vokar/Corellon Flitt\|Corellon Flitt]]
+[[Regions and NPCS/Thar-Vokar/Not Corellon Flitt\|Corellon Flitt]]
