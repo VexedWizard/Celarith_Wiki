@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/savras-lyrell/","created":"2026-05-03T15:46:39.620+01:00","updated":"2026-05-03T15:53:32.615+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/savras-lyrell/","created":"2026-05-30T12:01:41.793+01:00","updated":"2026-05-03T15:53:32.000+01:00"}
 ---
 
 Current Status: CAUTIOUS ALLY

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/archpriest-eltherain-nox/","created":"2026-05-03T14:42:19.507+01:00","updated":"2026-05-03T14:56:25.415+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/archpriest-eltherain-nox/","created":"2026-05-30T12:01:41.791+01:00","updated":"2026-05-03T14:56:25.000+01:00"}
 ---
 
 This serene, insightful black dragonborn is the twin brother of [[Regions and NPCS/Nyrrheim/Father Rhaegor Nox- High Inquisitor of the Ashen Hand\|Father Rhaegor Nox- High Inquisitor of the Ashen Hand]]. What is peculiar is that he seems to bear exactly the same wounds of his brother, but mirrored.

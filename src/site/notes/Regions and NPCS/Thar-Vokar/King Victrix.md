@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/king-victrix/","created":"2026-04-25T11:50:18.590+01:00","updated":"2026-05-03T14:29:41.697+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/king-victrix/","created":"2026-05-30T12:01:41.792+01:00","updated":"2026-05-03T14:29:41.000+01:00"}
 ---
 
 Current status (from his perspective!): ALLY

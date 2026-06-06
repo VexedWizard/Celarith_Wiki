@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/philly/","created":"2026-04-25T11:50:18.592+01:00","updated":"2026-03-21T11:49:01.000+00:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/philly/","created":"2026-05-30T12:01:41.796+01:00","updated":"2026-03-21T11:49:01.000+00:00"}
 ---
 
 

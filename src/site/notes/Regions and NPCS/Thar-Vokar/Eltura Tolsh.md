@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/eltura-tolsh/","created":"2026-04-25T11:50:18.590+01:00","updated":"2026-03-21T16:24:12.000+00:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/eltura-tolsh/","created":"2026-05-30T12:01:41.792+01:00","updated":"2026-03-21T16:24:12.000+00:00"}
 ---
 
 Current status: PROFESSIONAL RELATIONSHIP

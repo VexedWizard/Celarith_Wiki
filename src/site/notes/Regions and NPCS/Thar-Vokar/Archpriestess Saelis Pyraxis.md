@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/archpriestess-saelis-pyraxis/","created":"2026-05-03T15:00:29.124+01:00","updated":"2026-05-03T15:01:32.266+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/archpriestess-saelis-pyraxis/","created":"2026-05-30T12:01:41.792+01:00","updated":"2026-05-03T15:01:32.000+01:00"}
 ---
 
 

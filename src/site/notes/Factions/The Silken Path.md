@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/the-silken-path/","created":"2026-04-25T11:50:18.585+01:00","updated":"2026-03-21T16:30:22.000+00:00"}
+{"dg-publish":true,"permalink":"/factions/the-silken-path/","created":"2026-05-30T12:01:41.789+01:00","updated":"2026-03-21T16:30:22.000+00:00"}
 ---
 
 
