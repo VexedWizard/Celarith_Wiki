@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bastion/the-sanctum/","created":"2026-06-20T23:56:03.460+01:00","updated":"2026-07-02T00:21:56.680+01:00"}
+{"dg-publish":true,"permalink":"/bastion/the-sanctum/","created":"2026-06-20T23:56:03.460+01:00","updated":"2026-07-02T01:11:18.914+01:00"}
 ---
 
 
@@ -20,9 +20,9 @@ You may craft any non-consumable item up to *very rare* from the relics table (D
 With every journey, the devout influence - and are influenced by - the people and places around them, religious or otherwise. As you have travelled, the people you have assisted have inspired you to create sigils which can be engraved on the items you create, and each item can only have one sigil. The costs are as follows:
 
 
-| An item you are crafting          | No Cost                  |
-| --------------------------------- | ------------------------ |
-| An existing magical/ mundane item | 50 GP + 1 bastion action |
+| An item you are crafting              | **No Cost**              |
+| ------------------------------------- | ------------------------ |
+| An existing magical/ mundane **item** | 50 GP + 1 bastion action |
 
 
 ### Sigil of the Nightingales
