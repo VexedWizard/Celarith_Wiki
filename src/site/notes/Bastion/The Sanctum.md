@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bastion/the-sanctum/","created":"2026-06-20T23:56:03.460+01:00","updated":"2026-07-02T01:11:18.914+01:00"}
+{"dg-publish":true,"permalink":"/bastion/the-sanctum/","created":"2026-10-22T19:19:28.814+01:00","updated":"2026-07-02T01:11:18.000+01:00"}
 ---
 
 

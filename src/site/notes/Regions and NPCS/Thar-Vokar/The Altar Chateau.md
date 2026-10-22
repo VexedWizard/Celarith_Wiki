@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/the-altar-chateau/","created":"2026-05-30T12:01:41.793+01:00","updated":"2026-06-06T12:35:33.224+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/the-altar-chateau/","created":"2026-10-22T19:19:28.823+01:00","updated":"2026-06-06T12:35:33.000+01:00"}
 ---
 
 A luxury hotel not far from the city's Altar Ward, the Altar Chateau serves as lodgings for Celarith's nobility, as well as a discrete meeting place for the most influential people in Vor'el-Thar. It is currently the bastion of the party, who are staying there courtesy of the Crown. 

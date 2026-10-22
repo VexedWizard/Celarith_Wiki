@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bastion/the-rookery/","created":"2026-07-02T00:56:05.049+01:00","updated":"2026-07-02T01:03:41.216+01:00"}
+{"dg-publish":true,"permalink":"/bastion/the-rookery/","created":"2026-10-22T19:19:28.814+01:00","updated":"2026-07-02T01:03:41.000+01:00"}
 ---
 
 

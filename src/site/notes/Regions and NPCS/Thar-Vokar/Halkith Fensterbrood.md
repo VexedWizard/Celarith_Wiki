@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/halkith-fensterbrood/","created":"2026-06-06T12:35:52.952+01:00","updated":"2026-06-06T12:43:48.728+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/halkith-fensterbrood/","created":"2026-10-22T19:19:28.822+01:00","updated":"2026-06-06T12:43:48.000+01:00"}
 ---
 
 Currently in the Pearl [[Regions and NPCS/Thar-Vokar/Francesca Vigo\|Francesca Vigo]] is using to keep him prisoner, Halkith is a slimy, nasty example of a human archmage. 

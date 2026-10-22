@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/the-melos-conclave/","created":"2026-05-30T12:01:41.789+01:00","updated":"2026-03-21T11:45:45.000+00:00"}
+{"dg-publish":true,"permalink":"/factions/the-melos-conclave/","created":"2026-10-22T19:19:28.817+01:00","updated":"2026-03-21T11:45:45.000+00:00"}
 ---
 
 

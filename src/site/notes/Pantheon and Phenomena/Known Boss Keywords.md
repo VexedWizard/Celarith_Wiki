@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pantheon-and-phenomena/known-boss-keywords/","created":"2026-05-30T12:01:41.786+01:00","updated":"2026-06-06T12:29:42.316+01:00"}
+{"dg-publish":true,"permalink":"/pantheon-and-phenomena/known-boss-keywords/","created":"2026-10-22T19:19:28.819+01:00","updated":"2026-06-06T12:29:42.000+01:00"}
 ---
 
 # Cowardice

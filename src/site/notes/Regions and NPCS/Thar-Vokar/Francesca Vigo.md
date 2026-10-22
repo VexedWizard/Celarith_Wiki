@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/francesca-vigo/","created":"2026-05-30T12:01:41.793+01:00","updated":"2026-06-06T12:50:42.670+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/francesca-vigo/","created":"2026-10-22T19:19:28.822+01:00","updated":"2026-06-06T12:50:42.000+01:00"}
 ---
 
 

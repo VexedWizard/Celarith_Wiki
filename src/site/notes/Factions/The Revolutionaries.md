@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/the-revolutionaries/","created":"2026-06-06T11:59:26.521+01:00","updated":"2026-06-06T12:02:44.410+01:00"}
+{"dg-publish":true,"permalink":"/factions/the-revolutionaries/","created":"2026-10-22T19:19:28.817+01:00","updated":"2026-06-06T12:02:44.000+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/dekel/","created":"2026-06-06T12:02:49.223+01:00","updated":"2026-06-06T12:17:12.000+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/dekel/","created":"2026-10-22T19:19:28.822+01:00","updated":"2026-06-06T12:17:11.000+01:00"}
 ---
 
 

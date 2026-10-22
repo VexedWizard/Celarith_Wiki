@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pantheon-and-phenomena/vidorant-s-three-codex-pages/","created":"2026-05-30T12:01:41.790+01:00","updated":"2026-05-03T15:45:43.000+01:00"}
+{"dg-publish":true,"permalink":"/pantheon-and-phenomena/vidorant-s-three-codex-pages/","created":"2026-10-22T19:19:28.819+01:00","updated":"2026-05-03T15:45:43.000+01:00"}
 ---
 
 Three encoded documents which Maristela managed to decipher in record time. They read as follows:

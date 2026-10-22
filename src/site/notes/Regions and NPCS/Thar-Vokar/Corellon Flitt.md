@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/corellon-flitt/","created":"2026-05-30T12:01:41.792+01:00","updated":"2026-03-21T15:56:41.000+00:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/corellon-flitt/","created":"2026-10-22T19:19:28.822+01:00","updated":"2026-03-21T15:56:41.000+00:00"}
 ---
 
 Current status: ALLY

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bastion/the-greenhouse/","created":"2026-07-02T00:22:41.254+01:00","updated":"2026-07-02T00:54:40.395+01:00"}
+{"dg-publish":true,"permalink":"/bastion/the-greenhouse/","created":"2026-10-22T19:19:28.814+01:00","updated":"2026-07-02T00:54:40.000+01:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/sybil-tylira/","created":"2026-05-30T12:01:41.797+01:00","updated":"2026-03-21T11:49:01.000+00:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/sybil-tylira/","created":"2026-10-22T19:19:28.825+01:00","updated":"2026-03-21T11:49:01.000+00:00"}
 ---
 
 

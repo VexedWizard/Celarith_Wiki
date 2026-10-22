@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/gerta-gundenheim/","created":"2026-06-20T23:56:03.472+01:00","updated":"2026-07-01T23:36:32.918+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/thar-vokar/gerta-gundenheim/","created":"2026-10-22T19:19:28.822+01:00","updated":"2026-07-01T23:36:32.000+01:00"}
 ---
 
 

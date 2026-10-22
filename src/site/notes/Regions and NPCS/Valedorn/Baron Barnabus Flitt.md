@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/baron-barnabus-flitt/","created":"2026-05-30T12:01:41.795+01:00","updated":"2026-06-06T11:57:15.169+01:00"}
+{"dg-publish":true,"permalink":"/regions-and-npcs/valedorn/baron-barnabus-flitt/","created":"2026-10-22T19:19:28.824+01:00","updated":"2026-06-06T11:57:15.000+01:00"}
 ---
 
 
